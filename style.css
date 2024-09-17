@@ -1,5 +1,35 @@
+/*CSS HEX */
+/* --lavender-web: #e7e6f7ff;
+--pale-purple: #e3d0d8ff;
+--rose-quartz: #aea3b0ff;
+--mountbatten-pink: #827081ff;
+--lavender-web-2: #c6d2edff;
+
+https://coolors.co/palette/edede9-d6ccc2-f5ebe0-e3d5ca-d5bdaf */
+
+body{
+
+    background-color:#c6d2edff; 
+
+
+
+}
+
+
 img{
     width: 300px;
     border: 1px solid black;
     border-radius: 10px; 
+}
+h1{
+    color: #827081ff;
+}
+h2{
+    color:#827081ff ;
+}
+h3{
+    color: #827081ff;
+}
+p{
+    color: #827081ff;
 }
