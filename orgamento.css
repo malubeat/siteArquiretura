@@ -1,0 +1,21 @@
+td{
+    border: 1px solid cornflowerblue;
+    padding 6px;
+    text-align: center;
+    background-color:#B0C4DE;
+    color: #191970;
+}
+th{
+    border: 1px solid cornflowerblue;
+    padding: 2px;
+    text-align: center;
+    background-color:#6c8ebb;
+    color: #191970;
+}
+table{
+    background-color: #0f1d30;
+    width: 100%;
+}
+body{
+    background-color: aliceblue;
+}
